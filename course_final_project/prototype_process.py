@@ -1,5 +1,5 @@
 
-# # Exercise
+# # Prototype Pipeline
 # We are going to merge two data "pipelines" straight from NOAA's website that gathers tornado data for both Texas and Oklahoma.
 # We will then clean the data, select only the fields we are interested in, and load it into a SQLite database.
 # 
