@@ -7,7 +7,6 @@
 
 from datetime import datetime
 import pandas as pd
-from IPython.core.display_functions import display
 import sqlite3
 
 # STEP 2: Declare the start date and end date as variables, which we can re-assign to whatever range we are interested in. 
